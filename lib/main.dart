@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_spotify/view/getstartedScr.dart';
-import 'package:flutter_spotify/view/logInPage.dart';
+import 'package:flutter_spotify/view/screens/getstartedScr.dart';
+import 'package:flutter_spotify/view/screens/logInPage.dart';
+import 'package:get/get.dart';
+// import 'package:audioplayers/audioplayers.dart';
 
 void main() {
   runApp(const MyApp());

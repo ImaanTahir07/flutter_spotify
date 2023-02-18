@@ -5,7 +5,7 @@ import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:flutter_spotify/view/constants/colors.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_spotify/view/logInPage.dart';
+import 'package:flutter_spotify/view/screens/logInPage.dart';
 
 class textfield extends StatelessWidget {
   final String labeltext;
